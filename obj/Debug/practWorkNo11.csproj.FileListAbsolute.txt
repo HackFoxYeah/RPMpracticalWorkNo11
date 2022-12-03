@@ -1,0 +1,32 @@
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\bin\Debug\practWorkNo11.exe.config
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\bin\Debug\practWorkNo11.exe
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\bin\Debug\practWorkNo11.pdb
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\obj\Debug\practWorkNo11.csproj.AssemblyReference.cache
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\obj\Debug\practWorkNo11.csproj.SuggestedBindingRedirects.cache
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\obj\Debug\MainWindow.g.cs
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\obj\Debug\App.g.cs
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\obj\Debug\practWorkNo11_MarkupCompile.cache
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\obj\Debug\practWorkNo11_MarkupCompile.lref
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\obj\Debug\MainWindow.baml
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\obj\Debug\practWorkNo11.g.resources
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\obj\Debug\practWorkNo11.Properties.Resources.resources
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\obj\Debug\practWorkNo11.csproj.GenerateResource.cache
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\obj\Debug\practWorkNo11.csproj.CoreCompileInputs.cache
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\obj\Debug\practWorkNo11.exe
+C:\Users\исп-31.RSSK\Desktop\practWorkNo11\obj\Debug\practWorkNo11.pdb
+F:\Капустин ИСП-31\Кодинг\practWorkNo11\bin\Debug\practWorkNo11.exe.config
+F:\Капустин ИСП-31\Кодинг\practWorkNo11\bin\Debug\practWorkNo11.exe
+F:\Капустин ИСП-31\Кодинг\practWorkNo11\bin\Debug\practWorkNo11.pdb
+F:\Капустин ИСП-31\Кодинг\practWorkNo11\obj\Debug\practWorkNo11.csproj.AssemblyReference.cache
+F:\Капустин ИСП-31\Кодинг\practWorkNo11\obj\Debug\practWorkNo11.csproj.SuggestedBindingRedirects.cache
+F:\Капустин ИСП-31\Кодинг\practWorkNo11\obj\Debug\MainWindow.g.cs
+F:\Капустин ИСП-31\Кодинг\practWorkNo11\obj\Debug\App.g.cs
+F:\Капустин ИСП-31\Кодинг\practWorkNo11\obj\Debug\practWorkNo11_MarkupCompile.cache
+F:\Капустин ИСП-31\Кодинг\practWorkNo11\obj\Debug\practWorkNo11_MarkupCompile.lref
+F:\Капустин ИСП-31\Кодинг\practWorkNo11\obj\Debug\MainWindow.baml
+F:\Капустин ИСП-31\Кодинг\practWorkNo11\obj\Debug\practWorkNo11.g.resources
+F:\Капустин ИСП-31\Кодинг\practWorkNo11\obj\Debug\practWorkNo11.Properties.Resources.resources
+F:\Капустин ИСП-31\Кодинг\practWorkNo11\obj\Debug\practWorkNo11.csproj.GenerateResource.cache
+F:\Капустин ИСП-31\Кодинг\practWorkNo11\obj\Debug\practWorkNo11.csproj.CoreCompileInputs.cache
+F:\Капустин ИСП-31\Кодинг\practWorkNo11\obj\Debug\practWorkNo11.exe
+F:\Капустин ИСП-31\Кодинг\practWorkNo11\obj\Debug\practWorkNo11.pdb
